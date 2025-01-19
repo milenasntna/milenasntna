@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm passionate about coding and always excited to 
 ## 🎓 Education
 
 - **Professional course in Full Stack Software Development** completed at **Cubos Academy** (2023).
-- Currently studying **Analysis and Systems Development** at **Uninter**.
+- Currently studying **Systems Analysis and Development** at **Uninter**.
 
 ---
 
